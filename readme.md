@@ -37,7 +37,7 @@ I am a 3rd-year Industrial Engineering (100% English) student in Istanbul, Türk
 
 ## 🏅 Honours & Certifications
 
-* **1st Place – KPMG Case in Point Competition:** Achieved first place as a team in solving real-world business and analytical case problems organized by [KPMG Türkiye](https://www.google.com/search?q=https%3A%2F%2Fkpmg.com%2Ftr%2Ftr%2Fabout%2Fyonetim-kadromuz.html).
+* **1st Place – KPMG Case in Point Competition:** Achieved first place as a team in solving real-world business and analytical case problems organized by [KPMG Türkiye]([https://www.google.com/search?q=https%3A%2F%2Fkpmg.com%2Ftr%2Ftr%2Fabout%2Fyonetim-kadromuz.html](https://kpmg.com/tr/tr.html)).
 * **Albaraka Türk Online Young Development Program (2025):** Completed the career and professional development certification program by [Albaraka Türk](https://www.google.com/search?q=https%3A%2F%2Fwww.albaraka.com.tr%2Ftr%2Fhakkimizda%2Finsan-kiymetleri%2Falbarakada-kariyer-sss).
 
 ## 📊 GitHub Analytics
